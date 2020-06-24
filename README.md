@@ -9,10 +9,11 @@ Realize o fork do projeto e quando finalizar todas a implementações realize o 
 
 ## Checklist 
 
-* [ ] Consumir a api ergast utilizando a biblioteca retrofit
-* [ ] Criar a listagem utilizando RecyclerView
+* [ ] Consumir a API ergast utilizando a biblioteca retrofit
+* [ ] Criar a listagem de pilotos utilizando RecyclerView
+* [ ] Criar uma Activity para tela de sobre
 * [ ] Abrir a página da wikipedia através de uma Intent implicita 
-* [ ] Abrir a página da wikipedia através de uma Intent explicita para tela de sobre
+* [ ] Abrir a activity sobre utilizando uma Intent explicita
 * [ ] Os layouts da tela devem ser baseados no canvas abaixo. 
 
 
