@@ -12,8 +12,9 @@ Realize o fork do projeto e quando finalizar todas a implementações realize o 
 * [ ] Consumir a API ergast utilizando a biblioteca retrofit
 * [ ] Criar a listagem de pilotos utilizando RecyclerView
 * [ ] Criar uma Activity para tela de sobre
+* [ ] Criar recurso de menu com o item "Sobre" e carrega-lo na Activity principal
 * [ ] Abrir a página da wikipedia através de uma Intent implicita 
-* [ ] Abrir a activity sobre utilizando uma Intent explicita
+* [ ] Abrir a activity sobre utilizando uma Intent explicita quando ocorrer um clique no menu sobre.
 * [ ] Os layouts da tela devem ser baseados no canvas abaixo. 
 
 
