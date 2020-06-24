@@ -5,7 +5,10 @@ deve ter o nome do desenvovedor do aplicativo, e um breve texto explicando quais
 
 Todas as informações dos pilotos estão disponiveis na API https://ergast.com/mrd/methods/drivers/ 
 
+Realize o fork do projeto e quando finalizar todas a implementações realize o Pull request para o projeto principal. 
+
 ## Checklist 
+
 * [ ] Consumir a api ergast utilizando a biblioteca retrofit
 * [ ] Criar a listagem utilizando RecyclerView
 * [ ] Abrir a página da wikipedia através de uma Intent implicita 
