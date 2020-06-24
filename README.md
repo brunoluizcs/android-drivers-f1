@@ -5,10 +5,13 @@ deve ter o nome do desenvovedor do aplicativo, e um breve texto explicando quais
 
 Todas as informações dos pilotos estão disponiveis na API https://ergast.com/mrd/methods/drivers/ 
 
-## Checlist 
+## Checklist 
 * [ ] Consumir a api ergast utilizando a biblioteca retrofit
 * [ ] Criar a listagem utilizando RecyclerView
 * [ ] Abrir a página da wikipedia através de uma Intent implicita 
 * [ ] Abrir a página da wikipedia através de uma Intent explicita para tela de sobre
 * [ ] Os layouts da tela devem ser baseados no canvas abaixo. 
+
+
+<img width="60%" height="60%" src="https://github.com/brunoluizcs/android-drivers-f1/blob/master/canvas/canvas-formula1.png">
 
