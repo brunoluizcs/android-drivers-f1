@@ -1,11 +1,11 @@
 # Lista de pilotos de Fórmula 1 
 
-O objetivo deste projeto é criar uma lista de pilotos de fórmula 1 registrados em 2019,  a lista deve apresentar o nome e sobrenome do piloto, data de nascimento, nascionalidade e a um link para á página do piloto na wikipedia, ao clicar no link o aplicativo deve abrir a página correspondente. Também será necessário criar uma tela de sobre que deve ter seu realizado através do menu -> sobre, na tela de sobre o 
-deve ter o nome do desenvovedor do aplicativo, e um breve texto explicando quais informações o aplicativo exibe. 
+O objetivo deste projeto é criar uma lista de pilotos de fórmula 1 registrados em 2019, a lista deve apresentar o nome e sobrenome do piloto, data de nascimento, nacionalidade e a um link para á página do piloto na wikipedia, ao clicar no link o aplicativo deve abrir a página correspondente. Também será necessário criar uma tela de sobre que deve ter seu acesso realizado através do menu -> sobre, a tela de sobre 
+deve ter o nome do desenvolvedor do aplicativo, um breve texto explicando quais informações o aplicativo exibe. 
 
 Todas as informações dos pilotos estão disponiveis na API https://ergast.com/mrd/methods/drivers/ 
 
-Realize o fork do projeto e quando finalizar todas a implementações realize o Pull request para o projeto principal. 
+Realize o fork do projeto e quando finalizar todas a implementações realize o Pull Request para o projeto principal. 
 
 ## Checklist 
 
